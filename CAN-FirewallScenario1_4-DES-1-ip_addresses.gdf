@@ -1,0 +1,1160 @@
+# 
+# Purpose:   Contains IP address information for all active 
+#            interfaces in the current network model.
+#            (created by exporting this information from the model.)
+# 
+
+# Node Name: Logical Network.FCIH_4thFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.21    255.255.254.0    Logical Network.FCIH_4thFloor_lab2 <-> FCIH_4thFloor
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.41    255.255.254.0    Logical Network.FCIH_4thFloor_lab3 <-> FCIH_4thFloor
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.61    255.255.254.0    Logical Network.FCIH_4thFloor_lab4 <-> FCIH_4thFloor
+
+
+# Node Name: Logical Network.FCIH_3rdFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.81    255.255.254.0    Logical Network.FCIH_3rdFloor_lab5 <-> FCIH_3rdFloor
+
+
+# Node Name: Logical Network.FCIH_3rdFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.101   255.255.254.0    Logical Network.FCIH_3rdFloor_lab6 <-> FCIH_3rdFloor
+
+
+# Node Name: Logical Network.FCIH_3rdFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.121   255.255.254.0    Logical Network.FCIH_3rdFloor_lab7 <-> FCIH_3rdFloor
+
+
+# Node Name: Logical Network.FCIH_3rdFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.141   255.255.254.0    Logical Network.FCIH_3rdFloor_lab8 <-> FCIH_3rdFloor
+
+
+# Node Name: Logical Network.FCIH_2ndtFloor_lab9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.161   255.255.254.0    Logical Network.FCIH_2ndtFloor_lab9 <-> FCIH_2ndFloor
+
+
+# Node Name: Logical Network.FCIH_2ndFloor_lab10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.181   255.255.254.0    Logical Network.FCIH_2ndFloor_lab10 <-> FCIH_2ndFloor
+
+
+# Node Name: Logical Network.FCIH_2ndFloor_lab11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.201   255.255.254.0    Logical Network.FCIH_2ndFloor_lab11 <-> FCIH_2ndFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.221   255.255.254.0    Logical Network.FCIH_1stFloor_lab12 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.241   255.255.254.0    Logical Network.FCIH_1stFloor_lab13 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.5     255.255.254.0    Logical Network.FCIH_1stFloor_lab14 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.25    255.255.254.0    Logical Network.FCIH_1stFloor_lab15 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.45    255.255.254.0    Logical Network.FCIH_1stFloor_lab16 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.65    255.255.254.0    Logical Network.FCIH_1stFloor_lab17 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.FCIH_1stFloor_lab18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.85    255.255.254.0    Logical Network.FCIH_1stFloor_lab18 <-> FCIH_1stFloor
+
+
+# Node Name: Logical Network.Internet
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      192.0.0.1        255.255.255.0    Logical Network.Firewall <-> Internet
+   IF1                      140.200.2.2      255.255.255.252  Logical Network.Internet <-> IBMServer
+   IF2                      140.200.2.6      255.255.255.252  Logical Network.GoogleServer <-> Internet
+   IF4                      140.200.2.10     255.255.255.252  Logical Network.YoutubeServer <-> Internet
+
+
+# Node Name: Logical Network.IBMServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      140.200.2.1      255.255.255.252  Logical Network.Internet <-> IBMServer
+
+
+# Node Name: Logical Network.B2_3rdFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.21    255.255.255.0    Logical Network.B2_3rdFloor_lab2 <-> B2_3rdFloor
+
+
+# Node Name: Logical Network.B2_3rdFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.41    255.255.255.0    Logical Network.B2_3rdFloor_lab3 <-> B2_3rdFloor
+
+
+# Node Name: Logical Network.B2_1stFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.141   255.255.255.0    Logical Network.B2_1stFloor_lab8 <-> B2_1stFloor
+
+
+# Node Name: Logical Network.B2_2ndFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.61    255.255.255.0    Logical Network.B2_2ndFloor_lab4 <-> B2_2ndFloor
+
+
+# Node Name: Logical Network.B2_2ndFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.81    255.255.255.0    Logical Network.B2_2ndFloor_lab5 <-> B2_2ndFloor
+
+
+# Node Name: Logical Network.B2_2ndFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.101   255.255.255.0    Logical Network.B2_2ndFloor_lab6 <-> B2_2ndFloor
+
+
+# Node Name: Logical Network.B2_1stFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.121   255.255.255.0    Logical Network.B2_1stFloor_lab7 <-> B2_1stFloor
+
+
+# Node Name: Logical Network.B3_3rdFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.41    255.255.255.0    Logical Network.B3_3rdFloor_lab3 <-> B3_3rdFloor
+
+
+# Node Name: Logical Network.B3_3rdFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.61    255.255.255.0    Logical Network.B3_3rdFloor_lab4 <-> B3_3rdFloor
+
+
+# Node Name: Logical Network.B3_4thFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.21    255.255.255.0    Logical Network.B3_4thFloor_lab2 <-> B3_4thFloor
+
+
+# Node Name: Logical Network.B3_2ndFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.81    255.255.255.0    Logical Network.B3_2ndFloor_lab5 <-> B3_2ndFloor
+
+
+# Node Name: Logical Network.B3_2ndFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.101   255.255.255.0    Logical Network.B3_2ndFloor_lab6 <-> B3_2ndFloor
+
+
+# Node Name: Logical Network.B3_2ndFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.121   255.255.255.0    Logical Network.B3_2ndFloor_lab7 <-> B3_2ndFloor
+
+
+# Node Name: Logical Network.B3_1stFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.141   255.255.255.0    Logical Network.B3_1stFloor_lab8 <-> B3_1stFloor
+
+
+# Node Name: Logical Network.B4_3rdFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.41    255.255.255.0    Logical Network.B4_3rdFloor_lab3 <-> B4_3rdFloor
+
+
+# Node Name: Logical Network.B4_3rdFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.61    255.255.255.0    Logical Network.B4_3rdFloor_lab4 <-> B4_3rdFloor
+
+
+# Node Name: Logical Network.B4_4thFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.21    255.255.255.0    Logical Network.B4_4thFloor_lab2 <-> B4_4thFloor
+
+
+# Node Name: Logical Network.B4_2ndFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.81    255.255.255.0    Logical Network.B4_2ndFloor_lab5 <-> B4_2ndFloor
+
+
+# Node Name: Logical Network.B4_2ndFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.101   255.255.255.0    Logical Network.B4_2ndFloor_lab6 <-> B4_2ndFloor
+
+
+# Node Name: Logical Network.B4_1stFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.141   255.255.255.0    Logical Network.B4_1stFloor_lab7 <-> B4_1stFloor
+
+
+# Node Name: Logical Network.B4_1stFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.121   255.255.255.0    Logical Network.B4_1stFloor_lab8 <-> B4_1stFloor
+
+
+# Node Name: Logical Network.B1_3rdFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.21    255.255.255.0    Logical Network.B1_3rdFloor_lab2 <-> B1_3rdFloor
+
+
+# Node Name: Logical Network.B1_3rdFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.41    255.255.255.0    Logical Network.B1_3rdFloor_lab3 <-> B1_3rdFloor
+
+
+# Node Name: Logical Network.B1_1stFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.141   255.255.255.0    Logical Network.B1_1stFloor_lab8 <-> B1_1stFloor
+
+
+# Node Name: Logical Network.B1_2ndFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.61    255.255.255.0    Logical Network.B1_2ndFloor_lab4 <-> B1_2ndFloor
+
+
+# Node Name: Logical Network.B1_2ndFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.81    255.255.255.0    Logical Network.B1_2ndFloor_lab5 <-> B1_2ndFloor
+
+
+# Node Name: Logical Network.B1_2ndFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.101   255.255.255.0    Logical Network.B1_2ndFloor_lab6 <-> B1_2ndFloor
+
+
+# Node Name: Logical Network.B1_1stFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.121   255.255.255.0    Logical Network.B1_1stFloor_lab7 <-> B1_1stFloor
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc20
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.18    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc20
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.19    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc1
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc19
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.20    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc19
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.1     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc2
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.2     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc18
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.3     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc3
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.4     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc17
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.5     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc4
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.6     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc16
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.7     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc5
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.8     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc15
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.9     255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc6
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.10    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc14
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.11    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc7
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.12    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc13
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.13    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc8
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.14    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc12
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.15    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc9
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.16    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc11
+
+
+# Node Name: Logical Network.B1_4thFloor_lab1-pc10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.17    255.255.255.0    Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc10
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.2     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc18
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.3     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc3
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.4     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc17
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.13    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc8
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc20
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.18    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc20
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.19    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc1
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc19
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.20    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc19
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.1     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc2
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.5     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc4
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.6     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc16
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.7     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc5
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.8     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc15
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.9     255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc6
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.10    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc14
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.11    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc7
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.12    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc13
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.14    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc12
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.15    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc9
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.16    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc11
+
+
+# Node Name: Logical Network.B4_4thFloor_lab1-pc10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.17    255.255.255.0    Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc10
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.2     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc3
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.3     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc18
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.4     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc4
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.13    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc13
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.18    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc1
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc20
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.19    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc20
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.20    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc2
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc19
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.1     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc19
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.5     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc17
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.6     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc5
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.7     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc16
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.8     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc6
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.9     255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc15
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.10    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc7
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.11    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc14
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.12    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc8
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.14    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc9
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.15    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc12
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.16    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc10
+
+
+# Node Name: Logical Network.B3_4thFloor_lab1-pc11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.17    255.255.255.0    Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc11
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.2     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc18
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.3     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc3
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.4     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc17
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.13    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc8
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc20
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.18    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc20
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.19    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc1
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc19
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.20    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc19
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.1     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc2
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.5     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc4
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.6     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc16
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.7     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc5
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.8     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc15
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.9     255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc6
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.10    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc14
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.11    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc7
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.12    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc13
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.14    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc12
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.15    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc9
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.16    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc11
+
+
+# Node Name: Logical Network.B2_4thFloor_lab1-pc10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.17    255.255.255.0    Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc10
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc16
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.16    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc16
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc17
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.17    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc17
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc15
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.15    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc15
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc18
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.18    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc18
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc14
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.14    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc14
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc19
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.19    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc19
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc13
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.13    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc13
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc20
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.20    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc20
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc12
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.12    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc12
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.1     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc1
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc11
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.11    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc11
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.2     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc2
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.10    255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc10
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.3     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc3
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.9     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc9
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.4     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc4
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.8     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc8
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.5     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc5
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.7     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc7
+
+
+# Node Name: Logical Network.FCIH_4thFloor_lab1-pc6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.28.6     255.255.254.0    Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc6
+
+
+# Node Name: Logical Network.AAC_PC1
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.1     255.255.255.240  Logical Network.AAC_PC1 <-> Automated_Account_Center
+
+
+# Node Name: Logical Network.YoutubeServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      140.200.2.9      255.255.255.252  Logical Network.YoutubeServer <-> Internet
+
+
+# Node Name: Logical Network.GoogleServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      140.200.2.5      255.255.255.252  Logical Network.GoogleServer <-> Internet
+
+
+# Node Name: Logical Network.Firewall
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.254   255.255.254.0    Logical Network.FCIH_SWITCH <-> Firewall
+   IF1                      200.210.30.254   255.255.255.0    Logical Network.B1_SWITCH <-> Firewall
+   IF2                      200.210.32.254   255.255.255.0    Logical Network.B3_SWITCH <-> Firewall
+   IF3                      200.210.31.254   255.255.255.0    Logical Network.B2_SWITCH <-> Firewall
+   IF4                      200.210.33.254   255.255.255.0    Logical Network.B4_SWITCH <-> Firewall
+   IF5                      200.210.35.14    255.255.255.240  Logical Network.Automated_Account_Center <-> Firewall
+   IF6                      200.210.34.254   255.255.255.0    Logical Network.B5_SWITCH <-> Firewall
+   IF8                      192.0.0.2        255.255.255.0    Logical Network.Firewall <-> Internet
+
+
+# Node Name: Logical Network.B5_2ndFloor_lab3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.41    255.255.255.0    Logical Network.B5_2ndFloor_lab3 <-> B5_2ndFloor
+
+
+# Node Name: Logical Network.B5_2ndFloor_lab4
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.61    255.255.255.0    Logical Network.B5_2ndFloor_lab4 <-> B5_2ndFloor
+
+
+# Node Name: Logical Network.B5_1stFloor_lab2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.21    255.255.255.0    Logical Network.B5_1stFloor_lab2 <-> B5_1stFloor
+
+
+# Node Name: Logical Network.B5_3rdFloor_lab5
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.81    255.255.255.0    Logical Network.B5_3rdFloor_lab5 <-> B5_3rdFloor
+
+
+# Node Name: Logical Network.B5_3rdFloor_lab6
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.101   255.255.255.0    Logical Network.B5_3rdFloor_lab6 <-> B5_3rdFloor
+
+
+# Node Name: Logical Network.B5_4thFloor_lab8
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.141   255.255.255.0    Logical Network.B5_4thFloor_lab8 <-> B5_4thFloor
+
+
+# Node Name: Logical Network.B5_4thFloor_lab7
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.121   255.255.255.0    Logical Network.B5_4thFloor_lab7 <-> B5_4thFloor
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc21
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.2     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc21
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc22
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.3     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc22
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc23
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.4     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc23
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc24
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.13    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc24
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc25
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.18    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc25
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc26
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.19    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc26
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc27
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.20    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc27
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc28
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.1     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc28
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc29
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.5     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc29
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc30
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.6     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc30
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc31
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.7     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc31
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc32
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.8     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc32
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc33
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.9     255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc33
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc34
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.10    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc34
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc35
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.11    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc35
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc36
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.12    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc36
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc37
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.14    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc37
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc38
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.15    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc38
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc39
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.16    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc39
+
+
+# Node Name: Logical Network.B5_1stFloor_lab1-pc40
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.17    255.255.255.0    Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc40
+
+
+# Node Name: Logical Network.B5_4thFloor_lab9
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.161   255.255.255.0    Logical Network.B5_4thFloor_lab9 <-> B5_4thFloor
+
+
+# Node Name: Logical Network.B5_4thFloor_lab10
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.181   255.255.255.0    Logical Network.B5_4thFloor_lab10 <-> B5_4thFloor
+
+
+# Node Name: Logical Network.AAC_PC2
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.2     255.255.255.240  Logical Network.AAC_PC2 <-> Automated_Account_Center
+
+
+# Node Name: Logical Network.FCIH_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.29.86    255.255.254.0    Logical Network.FCIH_SERVER <-> FCIH_SWITCH
+
+
+# Node Name: Logical Network.DataBaseServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.6     255.255.255.240  Logical Network.DataBaseServer <-> Automated_Account_Center
+
+
+# Node Name: Logical Network.FileServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.4     255.255.255.240  Logical Network.FileServer <-> Automated_Account_Center
+
+
+# Node Name: Logical Network.PrintingServer
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.5     255.255.255.240  Logical Network.PrintingServer <-> Automated_Account_Center
+
+
+# Node Name: Logical Network.B4_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.33.142   200.210.33.142   Logical Network.B4_SERVER <-> B4_SWITCH
+
+
+# Node Name: Logical Network.B5_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.34.142   255.255.255.0    Logical Network.B5_SERVER <-> B5_SWITCH
+
+
+# Node Name: Logical Network.B3_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.32.142   255.255.255.0    Logical Network.B3_SERVER <-> B3_SWITCH
+
+
+# Node Name: Logical Network.B1_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.30.142   255.255.255.0    Logical Network.B1_SERVER <-> B1_SWITCH
+
+
+# Node Name: Logical Network.B2_SERVER
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.31.142   255.255.255.0    Logical Network.B2_SERVER <-> B2_SWITCH
+
+
+# Node Name: Logical Network.AAC_PC3
+#  Iface Name            IP Address       Subnet Mask      Connected Link
+#  ----------            ---------------  ---------------  ----------------
+   IF0                      200.210.35.3     255.255.255.240  Logical Network.AAC_PC3 <-> Automated_Account_Center

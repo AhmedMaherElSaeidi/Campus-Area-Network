@@ -1,0 +1,295 @@
+# This file is an output of a discrete event simulation.
+# It contains spanning tree information to be parsed while
+# visualizing the spanning tree using the Protocols->STP menu.
+# Legend: node name, VID, VLAN/tree name, port/node type, link name.
+Logical Network.FCIH_4thFloor,0,Common ST,root,none
+Logical Network.FCIH_4thFloor,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor
+Logical Network.FCIH_4thFloor,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab2 <-> FCIH_4thFloor
+Logical Network.FCIH_4thFloor,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab3 <-> FCIH_4thFloor
+Logical Network.FCIH_4thFloor,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab4 <-> FCIH_4thFloor
+Logical Network.FCIH_4thFloor,0,Common ST,designated_port,Logical Network.FCIH_4thFloor <-> FCIH_SWITCH
+Logical Network.FCIH_3rdFloor,0,Common ST,designated_port,Logical Network.FCIH_3rdFloor_lab5 <-> FCIH_3rdFloor
+Logical Network.FCIH_3rdFloor,0,Common ST,designated_port,Logical Network.FCIH_3rdFloor_lab6 <-> FCIH_3rdFloor
+Logical Network.FCIH_3rdFloor,0,Common ST,designated_port,Logical Network.FCIH_3rdFloor_lab7 <-> FCIH_3rdFloor
+Logical Network.FCIH_3rdFloor,0,Common ST,designated_port,Logical Network.FCIH_3rdFloor_lab8 <-> FCIH_3rdFloor
+Logical Network.FCIH_3rdFloor,0,Common ST,root_port,Logical Network.FCIH_3rdFloor <-> FCIH_SWITCH
+Logical Network.FCIH_2ndFloor,0,Common ST,designated_port,Logical Network.FCIH_2ndtFloor_lab9 <-> FCIH_2ndFloor
+Logical Network.FCIH_2ndFloor,0,Common ST,designated_port,Logical Network.FCIH_2ndFloor_lab10 <-> FCIH_2ndFloor
+Logical Network.FCIH_2ndFloor,0,Common ST,designated_port,Logical Network.FCIH_2ndFloor_lab11 <-> FCIH_2ndFloor
+Logical Network.FCIH_2ndFloor,0,Common ST,root_port,Logical Network.FCIH_2ndFloor <-> FCIH_SWITCH
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab12 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab13 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab14 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab15 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab16 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab17 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,designated_port,Logical Network.FCIH_1stFloor_lab18 <-> FCIH_1stFloor
+Logical Network.FCIH_1stFloor,0,Common ST,root_port,Logical Network.FCIH_1stFloor <-> FCIH_SWITCH
+Logical Network.B2_4thFloor,0,Common ST,root,none
+Logical Network.B2_4thFloor,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor
+Logical Network.B2_4thFloor,0,Common ST,designated_port,Logical Network.B2_4thFloor <-> B2_SWITCH
+Logical Network.B2_3rdFloor,0,Common ST,designated_port,Logical Network.B2_3rdFloor_lab2 <-> B2_3rdFloor
+Logical Network.B2_3rdFloor,0,Common ST,designated_port,Logical Network.B2_3rdFloor_lab3 <-> B2_3rdFloor
+Logical Network.B2_3rdFloor,0,Common ST,root_port,Logical Network.B2_3rdFloor <-> B2_SWITCH
+Logical Network.B2_2ndFloor,0,Common ST,designated_port,Logical Network.B2_2ndFloor_lab4 <-> B2_2ndFloor
+Logical Network.B2_2ndFloor,0,Common ST,designated_port,Logical Network.B2_2ndFloor_lab5 <-> B2_2ndFloor
+Logical Network.B2_2ndFloor,0,Common ST,designated_port,Logical Network.B2_2ndFloor_lab6 <-> B2_2ndFloor
+Logical Network.B2_2ndFloor,0,Common ST,root_port,Logical Network.B2_2ndFloor <-> B2_SWITCH
+Logical Network.B2_1stFloor,0,Common ST,designated_port,Logical Network.B2_1stFloor_lab7 <-> B2_1stFloor
+Logical Network.B2_1stFloor,0,Common ST,designated_port,Logical Network.B2_1stFloor_lab8 <-> B2_1stFloor
+Logical Network.B2_1stFloor,0,Common ST,root_port,Logical Network.B2_1stFloor <-> B2_SWITCH
+Logical Network.B3_4thFloor,0,Common ST,root,none
+Logical Network.B3_4thFloor,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor
+Logical Network.B3_4thFloor,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab2 <-> B3_4thFloor
+Logical Network.B3_4thFloor,0,Common ST,designated_port,Logical Network.B3_4thFloor <-> B3_SWITCH
+Logical Network.B3_3rdFloor,0,Common ST,designated_port,Logical Network.B3_3rdFloor_lab3 <-> B3_3rdFloor
+Logical Network.B3_3rdFloor,0,Common ST,designated_port,Logical Network.B3_3rdFloor_lab4 <-> B3_3rdFloor
+Logical Network.B3_3rdFloor,0,Common ST,root_port,Logical Network.B3_3rdFloor <-> B3_SWITCH
+Logical Network.B3_2ndFloor,0,Common ST,designated_port,Logical Network.B3_2ndFloor_lab5 <-> B3_2ndFloor
+Logical Network.B3_2ndFloor,0,Common ST,designated_port,Logical Network.B3_2ndFloor_lab6 <-> B3_2ndFloor
+Logical Network.B3_2ndFloor,0,Common ST,designated_port,Logical Network.B3_2ndFloor_lab7 <-> B3_2ndFloor
+Logical Network.B3_2ndFloor,0,Common ST,root_port,Logical Network.B3_2ndFloor <-> B3_SWITCH
+Logical Network.B3_1stFloor,0,Common ST,designated_port,Logical Network.B3_1stFloor_lab8 <-> B3_1stFloor
+Logical Network.B3_1stFloor,0,Common ST,root_port,Logical Network.B3_1stFloor <-> B3_SWITCH
+Logical Network.B4_4thFloor,0,Common ST,root,none
+Logical Network.B4_4thFloor,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor
+Logical Network.B4_4thFloor,0,Common ST,designated_port,Logical Network.B4_4thFloor_lab2 <-> B4_4thFloor
+Logical Network.B4_4thFloor,0,Common ST,designated_port,Logical Network.B4_4thFloor <-> B4_SWITCH
+Logical Network.B4_3rdFloor,0,Common ST,designated_port,Logical Network.B4_3rdFloor_lab3 <-> B4_3rdFloor
+Logical Network.B4_3rdFloor,0,Common ST,designated_port,Logical Network.B4_3rdFloor_lab4 <-> B4_3rdFloor
+Logical Network.B4_3rdFloor,0,Common ST,root_port,Logical Network.B4_3rdFloor <-> B4_SWITCH
+Logical Network.B4_2ndFloor,0,Common ST,designated_port,Logical Network.B4_2ndFloor_lab5 <-> B4_2ndFloor
+Logical Network.B4_2ndFloor,0,Common ST,designated_port,Logical Network.B4_2ndFloor_lab6 <-> B4_2ndFloor
+Logical Network.B4_2ndFloor,0,Common ST,root_port,Logical Network.B4_2ndFloor <-> B4_SWITCH
+Logical Network.B4_1stFloor,0,Common ST,designated_port,Logical Network.B4_1stFloor_lab8 <-> B4_1stFloor
+Logical Network.B4_1stFloor,0,Common ST,designated_port,Logical Network.B4_1stFloor_lab7 <-> B4_1stFloor
+Logical Network.B4_1stFloor,0,Common ST,root_port,Logical Network.B4_1stFloor <-> B4_SWITCH
+Logical Network.B1_4thFloor,0,Common ST,root,none
+Logical Network.B1_4thFloor,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor
+Logical Network.B1_4thFloor,0,Common ST,designated_port,Logical Network.B1_4thFloor <-> B1_SWITCH
+Logical Network.B1_3rdFloor,0,Common ST,designated_port,Logical Network.B1_3rdFloor_lab2 <-> B1_3rdFloor
+Logical Network.B1_3rdFloor,0,Common ST,designated_port,Logical Network.B1_3rdFloor_lab3 <-> B1_3rdFloor
+Logical Network.B1_3rdFloor,0,Common ST,root_port,Logical Network.B1_3rdFloor <-> B1_SWITCH
+Logical Network.B1_2ndFloor,0,Common ST,designated_port,Logical Network.B1_2ndFloor_lab4 <-> B1_2ndFloor
+Logical Network.B1_2ndFloor,0,Common ST,designated_port,Logical Network.B1_2ndFloor_lab5 <-> B1_2ndFloor
+Logical Network.B1_2ndFloor,0,Common ST,designated_port,Logical Network.B1_2ndFloor_lab6 <-> B1_2ndFloor
+Logical Network.B1_2ndFloor,0,Common ST,root_port,Logical Network.B1_2ndFloor <-> B1_SWITCH
+Logical Network.B1_1stFloor,0,Common ST,designated_port,Logical Network.B1_1stFloor_lab7 <-> B1_1stFloor
+Logical Network.B1_1stFloor,0,Common ST,designated_port,Logical Network.B1_1stFloor_lab8 <-> B1_1stFloor
+Logical Network.B1_1stFloor,0,Common ST,root_port,Logical Network.B1_1stFloor <-> B1_SWITCH
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc20
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc1
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc19
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc2
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc18
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc3
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc17
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc4
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc16
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc5
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc15
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc6
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc14
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc7
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc13
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc8
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc12
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc9
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc11
+Logical Network.B1_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor_lab1-pc10
+Logical Network.B1_4thFloor_lab1,0,Common ST,root_port,Logical Network.B1_4thFloor_lab1 <-> B1_4thFloor
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc20
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc20
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc1
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc1
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc19
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc19
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc2
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc2
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc18
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc18
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc3
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc3
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc17
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc17
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc4
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc4
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc16
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc16
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc5
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc5
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc15
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc15
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc6
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc6
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc14
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc14
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc7
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc7
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc13
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc13
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc8
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc8
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc12
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc12
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc9
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc9
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc11
+Logical Network.B4_4thF_lab1,3,B4_4thF_lap1_vlan2,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc11
+Logical Network.B4_4thF_lab1,0,Common ST,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc10
+Logical Network.B4_4thF_lab1,2,B4_4thF_lap1_vlan1,designated_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor_lab1-pc10
+Logical Network.B4_4thF_lab1,0,Common ST,root_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor
+Logical Network.B4_4thF_lab1,1,default,root_port,Logical Network.B4_4thF_lab1 <-> B4_4thFloor
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc1
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc20
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc2
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc19
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc3
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc18
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc4
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc17
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc5
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc16
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc6
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc15
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc7
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc14
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc8
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc13
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc9
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc12
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc10
+Logical Network.B3_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor_lab1-pc11
+Logical Network.B3_4thFloor_lab1,0,Common ST,root_port,Logical Network.B3_4thFloor_lab1 <-> B3_4thFloor
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc20
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc1
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc19
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc2
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc18
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc3
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc17
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc4
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc16
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc5
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc15
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc6
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc14
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc7
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc13
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc8
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc12
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc9
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc11
+Logical Network.B2_4thFloor_lab1,0,Common ST,designated_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor_lab1-pc10
+Logical Network.B2_4thFloor_lab1,0,Common ST,root_port,Logical Network.B2_4thFloor_lab1 <-> B2_4thFloor
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc16
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc17
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc15
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc18
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc14
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc19
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc13
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc20
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc12
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc1
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc11
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc2
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc10
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc3
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc9
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc4
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc8
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc5
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc7
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,designated_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor_lab1-pc6
+Logical Network.FCIH_4thFloor_lab1,0,Common ST,root_port,Logical Network.FCIH_4thFloor_lab1 <-> FCIH_4thFloor
+Logical Network.B5_1stFloor,0,Common ST,root,none
+Logical Network.B5_1stFloor,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor
+Logical Network.B5_1stFloor,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab2 <-> B5_1stFloor
+Logical Network.B5_1stFloor,0,Common ST,designated_port,Logical Network.B5_1stFloor <-> B5_SWITCH
+Logical Network.B5_2ndFloor,0,Common ST,designated_port,Logical Network.B5_2ndFloor_lab3 <-> B5_2ndFloor
+Logical Network.B5_2ndFloor,0,Common ST,designated_port,Logical Network.B5_2ndFloor_lab4 <-> B5_2ndFloor
+Logical Network.B5_2ndFloor,0,Common ST,root_port,Logical Network.B5_2ndFloor <-> B5_SWITCH
+Logical Network.B5_3rdFloor,0,Common ST,designated_port,Logical Network.B5_3rdFloor_lab5 <-> B5_3rdFloor
+Logical Network.B5_3rdFloor,0,Common ST,designated_port,Logical Network.B5_3rdFloor_lab6 <-> B5_3rdFloor
+Logical Network.B5_3rdFloor,0,Common ST,root_port,Logical Network.B5_3rdFloor <-> B5_SWITCH
+Logical Network.B5_4thFloor,0,Common ST,designated_port,Logical Network.B5_4thFloor_lab7 <-> B5_4thFloor
+Logical Network.B5_4thFloor,0,Common ST,designated_port,Logical Network.B5_4thFloor_lab8 <-> B5_4thFloor
+Logical Network.B5_4thFloor,0,Common ST,root_port,Logical Network.B5_4thFloor <-> B5_SWITCH
+Logical Network.B5_4thFloor,0,Common ST,designated_port,Logical Network.B5_4thFloor_lab10 <-> B5_4thFloor
+Logical Network.B5_4thFloor,0,Common ST,designated_port,Logical Network.B5_4thFloor_lab9 <-> B5_4thFloor
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc25
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc26
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc27
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc28
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc21
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc22
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc23
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc29
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc30
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc31
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc32
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc33
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc34
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc35
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc36
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc24
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc37
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc38
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc39
+Logical Network.B5_1stFloor_lab1,0,Common ST,designated_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor_lab1-pc40
+Logical Network.B5_1stFloor_lab1,0,Common ST,root_port,Logical Network.B5_1stFloor_lab1 <-> B5_1stFloor
+Logical Network.FCIH_SWITCH,0,Common ST,designated_port,Logical Network.FCIH_SWITCH <-> Firewall
+Logical Network.FCIH_SWITCH,0,Common ST,designated_port,Logical Network.FCIH_SERVER <-> FCIH_SWITCH
+Logical Network.FCIH_SWITCH,0,Common ST,designated_port,Logical Network.FCIH_3rdFloor <-> FCIH_SWITCH
+Logical Network.FCIH_SWITCH,0,Common ST,designated_port,Logical Network.FCIH_2ndFloor <-> FCIH_SWITCH
+Logical Network.FCIH_SWITCH,0,Common ST,designated_port,Logical Network.FCIH_1stFloor <-> FCIH_SWITCH
+Logical Network.FCIH_SWITCH,0,Common ST,root_port,Logical Network.FCIH_4thFloor <-> FCIH_SWITCH
+Logical Network.Automated_Account_Center,0,Common ST,root,none
+Logical Network.Automated_Account_Center,1,default,root,none
+Logical Network.Automated_Account_Center,11,AAC_11,root,none
+Logical Network.Automated_Account_Center,22,AAC_22,root,none
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.Automated_Account_Center <-> Firewall
+Logical Network.Automated_Account_Center,1,default,designated_port,Logical Network.Automated_Account_Center <-> Firewall
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.AAC_PC1 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,11,AAC_11,designated_port,Logical Network.AAC_PC1 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.AAC_PC3 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,22,AAC_22,designated_port,Logical Network.AAC_PC3 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.AAC_PC2 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,11,AAC_11,designated_port,Logical Network.AAC_PC2 <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.DataBaseServer <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,1,default,designated_port,Logical Network.DataBaseServer <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.FileServer <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,1,default,designated_port,Logical Network.FileServer <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,0,Common ST,designated_port,Logical Network.PrintingServer <-> Automated_Account_Center
+Logical Network.Automated_Account_Center,1,default,designated_port,Logical Network.PrintingServer <-> Automated_Account_Center
+Logical Network.B4_SWITCH,0,Common ST,designated_port,Logical Network.B4_SERVER <-> B4_SWITCH
+Logical Network.B4_SWITCH,0,Common ST,designated_port,Logical Network.B4_2ndFloor <-> B4_SWITCH
+Logical Network.B4_SWITCH,0,Common ST,root_port,Logical Network.B4_4thFloor <-> B4_SWITCH
+Logical Network.B4_SWITCH,0,Common ST,designated_port,Logical Network.B4_1stFloor <-> B4_SWITCH
+Logical Network.B4_SWITCH,0,Common ST,designated_port,Logical Network.B4_3rdFloor <-> B4_SWITCH
+Logical Network.B4_SWITCH,0,Common ST,designated_port,Logical Network.B4_SWITCH <-> Firewall
+Logical Network.B5_SWITCH,0,Common ST,designated_port,Logical Network.B5_3rdFloor <-> B5_SWITCH
+Logical Network.B5_SWITCH,0,Common ST,root_port,Logical Network.B5_1stFloor <-> B5_SWITCH
+Logical Network.B5_SWITCH,0,Common ST,designated_port,Logical Network.B5_2ndFloor <-> B5_SWITCH
+Logical Network.B5_SWITCH,0,Common ST,designated_port,Logical Network.B5_4thFloor <-> B5_SWITCH
+Logical Network.B5_SWITCH,0,Common ST,designated_port,Logical Network.B5_SERVER <-> B5_SWITCH
+Logical Network.B5_SWITCH,0,Common ST,designated_port,Logical Network.B5_SWITCH <-> Firewall
+Logical Network.B3_SWITCH,0,Common ST,designated_port,Logical Network.B3_1stFloor <-> B3_SWITCH
+Logical Network.B3_SWITCH,0,Common ST,designated_port,Logical Network.B3_3rdFloor <-> B3_SWITCH
+Logical Network.B3_SWITCH,0,Common ST,root_port,Logical Network.B3_4thFloor <-> B3_SWITCH
+Logical Network.B3_SWITCH,0,Common ST,designated_port,Logical Network.B3_2ndFloor <-> B3_SWITCH
+Logical Network.B3_SWITCH,0,Common ST,designated_port,Logical Network.B3_SERVER <-> B3_SWITCH
+Logical Network.B3_SWITCH,0,Common ST,designated_port,Logical Network.B3_SWITCH <-> Firewall
+Logical Network.B1_SWITCH,0,Common ST,designated_port,Logical Network.B1_2ndFloor <-> B1_SWITCH
+Logical Network.B1_SWITCH,0,Common ST,designated_port,Logical Network.B1_3rdFloor <-> B1_SWITCH
+Logical Network.B1_SWITCH,0,Common ST,root_port,Logical Network.B1_4thFloor <-> B1_SWITCH
+Logical Network.B1_SWITCH,0,Common ST,designated_port,Logical Network.B1_1stFloor <-> B1_SWITCH
+Logical Network.B1_SWITCH,0,Common ST,designated_port,Logical Network.B1_SERVER <-> B1_SWITCH
+Logical Network.B1_SWITCH,0,Common ST,designated_port,Logical Network.B1_SWITCH <-> Firewall
+Logical Network.B2_SWITCH,0,Common ST,designated_port,Logical Network.B2_2ndFloor <-> B2_SWITCH
+Logical Network.B2_SWITCH,0,Common ST,designated_port,Logical Network.B2_1stFloor <-> B2_SWITCH
+Logical Network.B2_SWITCH,0,Common ST,root_port,Logical Network.B2_4thFloor <-> B2_SWITCH
+Logical Network.B2_SWITCH,0,Common ST,designated_port,Logical Network.B2_3rdFloor <-> B2_SWITCH
+Logical Network.B2_SWITCH,0,Common ST,designated_port,Logical Network.B2_SERVER <-> B2_SWITCH
+Logical Network.B2_SWITCH,0,Common ST,designated_port,Logical Network.B2_SWITCH <-> Firewall
