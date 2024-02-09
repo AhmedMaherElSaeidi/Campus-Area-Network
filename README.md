@@ -2,6 +2,9 @@
 
 This repository contains the configuration details for a network setup with specific requirements. The following points outline the key aspects of the configuration:
 
+## Network Diagram
+![Network Diagram](./project_overview.png)
+
 ## 1. Classless IP Address Distribution
 Use Classless to distribute the public IP addresses to all sub-networks.
 
